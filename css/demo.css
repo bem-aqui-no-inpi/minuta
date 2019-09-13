@@ -14,8 +14,8 @@
 .clearfix:after { clear: both; }
 
 body {
-	background: #2f3238;
-	color: #FF1F44;
+	background: #fff;
+	color: #6688ee;
 	font-weight: 400;
 	font-size: 1em;
 	font-family: 'Raleway', Arial, sans-serif;
@@ -71,7 +71,7 @@ section {
 .codrops-header h1 span {
 	display: block;
 	padding: 25px 0 0.6em 0.1em;
-	color: #fff;
+	color: #2f3238;
 	font-weight: 300;
 	font-size: 45%;
 }
